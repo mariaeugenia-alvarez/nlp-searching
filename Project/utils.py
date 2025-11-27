@@ -2,13 +2,13 @@ import os
 import json
 
 
-def load_automotive_reviews(datasets_path, jsonl_file):
+def load_beauty_reviews(datasets_path, jsonl_file):
     """
-    Carga reseñas de productos automotrices desde un archivo JSONL.
+    Carga reseñas de productos desde un archivo JSONL.
 
     Args:
         datasets_path: Ruta al directorio donde está el archivo
-        jsonl_file: Nombre del archivo JSONL (ej: 'Automotive.jsonl')
+        jsonl_file: Nombre del archivo JSONL (ej: 'All_Beauty.jsonl')
 
     Returns:
         Dict con las reseñas indexadas por número
