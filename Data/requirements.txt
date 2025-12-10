@@ -14,6 +14,7 @@ pyDAWG
 pyLDAvis
 scikit-learn
 scipy
+seaborn
 sklearn_crfsuite
 stop_words
 tensorflow
